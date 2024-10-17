@@ -4,6 +4,7 @@
 
 <h3> My Skills </h3>
 
+<body>
 <img alt="Python" src="https://img.shields.io/badge/python-4584b6?style=flat-square&logo=python&logoColor=ffde57" />
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-ffdd54?style=flat-square&logo=opencv">
 <img alt="ROS" src="https://img.shields.io/badge/ROS-00008B?style=flat-square&logo=ROS">
@@ -14,6 +15,7 @@
 <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979c?style=flat-square&logo=Arduino&logoColor=FFFFFF">
 <img alt="Arduino" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi">
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</body>
 
 <h3> About Me </h3>
 <ul> 
