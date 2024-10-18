@@ -20,7 +20,7 @@
 
 <h3> About Me </h3>
 <ul> 
-<li> <a href="https://mavric.si.umich.edu/"><img src="assets/mavric.png" width = 25> </a> Undergraduate Research Assistant @ MAVRIC Lab</li>
+<li> <a href="https://mavric.si.umich.edu/"><img src="assets/mavric.png" width = 25 alt = "Mavric Lab logo"></a> Undergraduate Research Assistant @ MAVRIC Lab</li>
 
 <li> <img src="https://slackmojis.com/emojis/28039-study/download" width = 25> I'm currently learning about Computer Vision and Human-Robot Interaction</li>
 
