@@ -25,7 +25,7 @@
 <li> <img src="https://slackmojis.com/emojis/28039-study/download" width = 25> I'm currently learning about Computer Vision and Human-Robot Interaction</li>
 
 
-<li><img src="https://slackmojis.com/emojis/5197-party_blob/download" width = 25>  Ask about <a href=https://www.last.fm/user/alberttchen"> music</a>, working out, and food!</li>
+<li><img src="https://slackmojis.com/emojis/5197-party_blob/download" width = 25>  Ask about <a href="https://www.last.fm/user/alberttchen"> music</a>, working out, and food!</li>
 </ul>
 
 <hr>
