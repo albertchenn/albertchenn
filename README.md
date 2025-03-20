@@ -1,6 +1,6 @@
 <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hi! I'm Albert.</h1>
 
-<p> I'm <a href="https://albertchenn.me"> Albert</a>, a full time student <a href="https://www.engin.umich.edu/"><img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="20" alt="University of Michigan Logo"></a> @The University of Michigan's College of Engineering. I'm planning on majoring in Electrical Engineering with interests in robotics, chip design, and operating systems!</p>
+<p> I'm <a href="https://albertchenn.me"> Albert</a>, a full time student <a href="https://www.engin.umich.edu/"><img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="20" alt="University of Michigan Logo"></a> @The University of Michigan's College of Engineering. I'm pursuing a Bachelor's in Electrical Engineering with interests in robotics, chip design, and operating systems!</p>
 
 <hr>
 <h3> My Skills </h3>
