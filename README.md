@@ -1,6 +1,6 @@
 <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hi! I'm Albert.</h1>
 
-<p> I'm <a href="https://albertchenn.me"> Albert</a>, a full time student <a href="https://www.engin.umich.edu/"><img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="20" alt="University of Michigan Logo"></a> @The University of Michigan's College of Engineering. I'm pursuing a Bachelor's in Electrical Engineering with interests in robotics, chip design, and operating systems!</p>
+<p> I'm <a href="https://albertchenn.me"> Albert</a>, a full time student <a href="https://www.engin.umich.edu/"><img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="20" alt="University of Michigan Logo"></a> @The University of Michigan's College of Engineering. I'm pursuing a Bachelor's in Electrical Engineering with interests in MEMS, chip manufacturing + design, and pretty everything related to math and engineering :)</p>
 
 <hr>
 <h3> My Skills </h3>
@@ -20,10 +20,9 @@
 
 <h3> About Me </h3>
 <ul> 
-<li> <a href="https://mavric.si.umich.edu/"><img src="assets/mavric.png" width = 25 alt = "Mavric Lab logo"></a> Undergraduate Research Assistant @ MAVRIC Lab</li>
+<li> <a href="https://findootd.app"><img src="assets/ootd.png" width = 25 alt = "Mavric Lab logo"></a> CEO and Co-Founder of OOTD </li>
 
-<li> <img src="https://slackmojis.com/emojis/28039-study/download" width = 25> I'm currently learning about Computer Vision and Human-Robot Interaction</li>
-
+<li> <img src="https://slackmojis.com/emojis/28039-study/download" width = 25> I'm currently learning about chip manufacturing + design and full-stack development</li>
 
 <li><img src="https://slackmojis.com/emojis/5197-party_blob/download" width = 25>  Ask about <a href="https://www.last.fm/user/alberttchen"> music</a>, working out, and food!</li>
 </ul>
