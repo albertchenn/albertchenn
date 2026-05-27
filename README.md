@@ -20,8 +20,6 @@
 
 <h3> About Me </h3>
 <ul> 
-<li> <a href="https://findootd.app"><img src="assets/ootd.png" width = 25 alt = "OOTD logo"></a> CEO and Co-Founder of OOTD </li>
-
 <li> <img src="https://slackmojis.com/emojis/28039-study/download" width = 25> I'm currently learning about chip manufacturing + design and full-stack development</li>
 
 <li><img src="https://slackmojis.com/emojis/5197-party_blob/download" width = 25>  Ask about <a href="https://www.last.fm/user/alberttchen"> music</a>, working out, and food!</li>
